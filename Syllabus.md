@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.1, Revised 10 July 2019*
+*Version 2019-Fall-0.2, Revised 10 July 2019*
 ### *CS-135 01 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -42,8 +42,6 @@ zyBooks<br>
 Additional information:
 
 * A subscription is $58. Students may begin subscribing on Aug 22, 2019 and the cutoff to subscribe is Dec 16, 2019. Subscriptions will last until Jan 15, 2020. 
-* If you are retaking the class, zyBooks is happy to offer a free subscription for subsequent enrollment in the same class. Email the new zyBook code to support@zybooks.com, letting us know that you are retaking the class.
-* For students who cannot pay until financial aid arrives, deferments may be available by contacting support@zybooks.com.
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
