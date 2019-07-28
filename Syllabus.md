@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.3, Revised 28 July 2019*
+*Version 2019-Fall-0.4, Revised 28 July 2019*
 ### *CS-135 01 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -268,7 +268,7 @@ During the scheduled final exam period, you will present your final project to t
 ## Exams
 There will be two exams given during the semester. Both exams will be given during a regular class period.
 
-* Exam 1 is tentatively scheduled to be given during class on 3 October 2019.
+* Exam 1 is tentatively scheduled to be given during class on 8 October 2019.
 * Exam 2 is tentatively scheduled to be given during class on 12 November 2019.
 
 ## Deliverables
@@ -384,8 +384,8 @@ Week 1 | 3 September &mdash; **No Class**<br>*Classes have not started yet* | 5 
 Week 2 | 10 September<br> | 12 September<br> 
 Week 3 | 17 September<br> | 19 September<br> 
 Week 4 | 24 September<br> | 26 September<br> 
-Week 5 | 1 October<br> | 3 October<br>**Exam 1**
-Week 6 | 8 October<br> | 10 October<br> 
+Week 5 | 1 October<br> | 3 October<br>
+Week 6 | 8 October<br>**Exam 1** | 10 October<br> 
 Week 7 | 15 October<br>| 17 October<br> 
 Week 8 | 21 October<br> | 24 October<br> 
 Week 9 | 29 October<br> | 31 October<br> 
