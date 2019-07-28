@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.2, Revised 10 July 2019*
+*Version 2019-Fall-0.3, Revised 28 July 2019*
 ### *CS-135 01 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -387,13 +387,14 @@ Week 4 | 24 September<br> | 26 September<br>
 Week 5 | 1 October<br> | 3 October<br>**Exam 1**
 Week 6 | 8 October<br> | 10 October<br> 
 Week 7 | 15 October<br>| 17 October<br> 
-Week 8 | 29 October<br> | 31 October<br> 
-Week 9 | 5 November<br> | 7 November<br> 
-Week 10 | 12 November<br>**Exam 2** | 14 November<br>*Working on Final Project*
-Week 11 | 19 November<br>*Working on Final Project* | 21 November<br>*Working on Final Project*
-Week 12 | 26 November<br>*Working on Final Project* | 28 November &mdash; **No Class**<br>*Thanksgiving Recess*
-Week 13 | 3 December<br>*Working on Final Project* | 5 December<br>*Working on Final Project*
-Week 14 | 10 December<br>*Working on Final Project* | 12 December &mdash; **No Class**<br>*Final Exams*
+Week 8 | 21 October<br> | 24 October<br> 
+Week 9 | 29 October<br> | 31 October<br> 
+Week 10 | 5 November<br> | 7 November<br> 
+Week 11 | 12 November<br>**Exam 2** | 14 November<br>*Working on Final Project*
+Week 12 | 19 November<br>*Working on Final Project* | 21 November<br>*Working on Final Project*
+Week 13 | 26 November<br>*Working on Final Project* | 28 November &mdash; **No Class**<br>*Thanksgiving Recess*
+Week 14 | 3 December<br>*Working on Final Project* | 5 December<br>*Working on Final Project*
+Week 15 | 10 December<br>*Working on Final Project* | 12 December &mdash; **No Class**<br>*Final Exams*
 Final<br>Exam<br>Week | 17 December<br>**Final Presentations<br>12:30-3:30pm** | 19 December &mdash; **No Class**<br>*Final Exams*
 
 ## Copyright and License
