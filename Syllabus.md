@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.8, Revised 27 August 2019*
+*Version 2019-Fall-0.9, Revised 27 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -158,7 +158,7 @@ The course outline will be covered on a best-effort basis, subject as always to 
 * Tracing code
 
 ## Course Philosophy
-During this semester we will be learning to design, write and test programs that can be used to manipulate data in a number of ways. The emphasis will be on solving real-life data analysis problems in a variety of disciplines. We will be using the Python programming language which has the advantage of being (relatively) easy to learn and has a large collection of modules contributed by other users. We will spend most of our class time working on the computer trying out new concepts and techniques. This will give us all a chance to learn new material with the support and help of the instructor and your classmates. Larger projects completed outside of class will lead toward more complete mastery of the material. Finally, we will work on individual or group final projects, developing a program to solve some problem in our own disciplines and learning from each other’s experience on these projects.
+During this semester we will be learning to design, write and test programs that can be used to manipulate data in a number of ways. The emphasis will be on solving real-life data analysis problems in a variety of disciplines. We will be using the Python programming language which has the advantage of being (relatively) easy to learn and has a large collection of modules contributed by other users. We will spend most of our class time working in groups or on the computer trying out new concepts and techniques. This will give us all a chance to learn new material with the support and help of the instructor and your classmates. Larger projects completed outside of class will lead toward more complete mastery of the material. Finally, we will work on individual or group final projects, developing a program to solve some problem in our own disciplines and learning from each other’s experience on these projects.
 
 You are encouraged to help each other out, in and out of the classroom, as long as you do your own work. (See Academic Conduct below.)
 
@@ -196,8 +196,8 @@ Your grade for the course will be determined by which assignments and/or how man
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 Attendance and Participation<br>&nbsp;&nbsp;&mdash; In-class Activity Classes (out of 18) <br>&nbsp;&nbsp;&mdash; Final Project Work Classes (out of 7) | <br>18<br>6 | <br>18<br>5 | <br>17<br>4 | <br>16<br>3
-Readings Quizzes Average | 90% | 80% | 70%  | 60%
-zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | <br>100% <br> 90% | <br>90% <br> 80% | <br>80% <br> 70% | <br>70% <br> 60%
+Readings Quizzes Average | &ge; 90% | &ge; 80% | &ge; 70%  | &ge; 60%
+zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | <br>100% <br> &ge; 90% | <br> &ge; 90% <br> &ge; 80% | <br> &ge; 80% <br> &ge; 70% | <br> &ge; 70% <br> &ge; 60%
 Laboratory Assignments (out of 6) | 6 | 6 | 6 | 5
 Programming Projects (out 6)<br>&nbsp;&nbsp;&mdash; Submitted (*see explanation below*) <br>&nbsp;&nbsp;&mdash; Meets Specification  | <br>6<br>6 | <br>6<br>5 | <br>6<br>4  | <br>5<br>3
 Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 6)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of 6)<br>&nbsp;&nbsp;&mdash; Final Project (out of 4) | 4<br>5<br>4 | 3<br>4<br>3 | 2<br>3<br>2 | 1<br>2<br>1
@@ -255,7 +255,7 @@ For your attendance and participation to be considered to *Meet Specification*, 
 ## Programming Projects
 The programming projects will give you a chance to apply the material to larger tasks. These projects will require you to interpret the problem description, do some planning and design, possibly research and evaluate third-party modules, implement your program, and test and debug it. 
 
-**Submitted** means that the project has been submitted on time, has all or most of the appropriate code and functions to complete the solution, runs (but maybe not correctly in all cases), may need some cleaning up to really meet the specifiations. Generally, shows that the student has put in sufficient effort, but the solution is just a little bit "off the mark". 
+**Submitted** means that the project has been submitted on time, has all or most of the appropriate code and functions to complete the solution, runs (but maybe not correctly in all cases), but may need some cleaning up to really meet the specifiations. Generally, the student has put in sufficient effort, but the solution is just a little bit "off the mark". 
 
 ## Discussion Logs
 
@@ -290,11 +290,11 @@ Late work will not be accepted. (See *Tokens* below.)
 If you receive a ***Does Not Yet Meet Specification*** on any assignment you may revise and resubmit the assignment ***one time only*** without the use of a token. If you need to submit an assignment a third time, you will have to spend a token.
 
 * You must have submitted the original assignment on time, (or one day late with the use of a token.)
-* You must submit your revision within one week from the date when the "Not Acceptable" grade and comments were posted in My Grades. (You may use a token to submit the revision one day late.)
+* You must submit your revision within one week from the date when the "Not Acceptable" grade was posted in Blackboard and comments were posted in GitLab. (You may use a token to submit the revision one day late.)
 * You may ask me for clarification of the assignment, or of the comments I made on your submission.
 * You may ask me to look at your revised solution to see if it addresses my comments.
 * If you address all the comments in an acceptable fashion, your grade will be converted to ***Meets Specification***.
-* You must let me know by email when you resubmit the assignment, so that I know to regrade it.
+* You must let me know by a comment in GitLab when you resubmit the assignment, so that I know to regrade it.
 
 ## Tokens
 Each student will be able to earn up to 5 tokens over the course of the semester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
@@ -307,7 +307,7 @@ Each token can be used to:
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
-* Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment..
+* Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
