@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.4, Revised 28 July 2019*
+*Version 2019-Fall-0.5, Revised 27 August 2019*
 ### *CS-135 01 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -16,7 +16,7 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
-See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
+See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Times and Locations
 TR 1:00-2:15pm<br>
