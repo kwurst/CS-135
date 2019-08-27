@@ -1,7 +1,7 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.5, Revised 27 August 2019*
-### *CS-135 01 &mdash; Fall 2019*
+*Version 2019-Fall-0.6, Revised 27 August 2019*
+### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
 This is a LASC course and can be taken to satisfy the *Quantitative Reasoning* requirement.
