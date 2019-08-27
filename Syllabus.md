@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.6, Revised 27 August 2019*
+*Version 2019-Fall-0.7, Revised 27 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -23,10 +23,12 @@ TR 1:00-2:15pm<br>
 ST 107
 
 ## It's in the Syllabus
-<img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
-<a href="http://www.phdcomics.com/comics.php?f=1583">http://www.phdcomics.com/comics.php?f=1583</a>
+<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
+<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
 
-**If you don't find the answer to your question in the syllabus, then please ask me.**
+Of course, not *everything* is in the syllabus, but many things are. 
+
+If you have a question, please check the syllabus first, and then ask if you can't find the answer.
 
 ## Textbook
 
