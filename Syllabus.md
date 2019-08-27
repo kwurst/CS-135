@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.7, Revised 27 August 2019*
+*Version 2019-Fall-0.8, Revised 27 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -49,16 +49,15 @@ Additional information:
 In addition to the textbook, to successfully complete this course you will need:
 
 1. **Laptop Computer**: You will need a laptop computer that you can bring to class and use at home. ***You must bring your laptop to every class session.*** The brand and operating system (Windows, Mac OS X, Linux) is unimportant &mdash; the software we will be using runs on all major operating systems and can be downloaded for free.  The software you will need installed:
-	1. **Web Browser** – You will need a web browser to access the Blackboard course site, the in-class activities (as Google Docs), the zyBook, and Piazza (see Internet Access below.)
-	2. **Python 3** – The Python 3 software is Free and Open Source Software, can be downloaded from [http://www.python.org/download/](), and is available for Windows, Mac OS X, and Linux operating systems. We will install Python on your computer during the first class.
-
+	1. **Thonny** &mdash; This is the Python programming environment we will be using to learn programming. We will download and install this software during the first laboratory session.
+	2.	**Fork** &mdash; We will use this Git software to share code during lab, and submit code to the instructor. We will download and install this software during the first laboratory session.
 2. **Internet Access:** You will need Internet access for access to:  
 	1. **ZyBooks** &mdash; Our textbook and Python code-writing practice.
 	2. **Blackboard** &mdash; All course materials and announcements will be made available through the course site on Blackboard. Quizzes will be given on Blackboard. Students will be required to use Blackboard as the course tool. 
-	3. ***Google Docs*** &mdash; All in-class activites will be provided as Google Docs that you and your teammates will work on during class time, and use a review materials outside of class.
+	3. **Google Docs** &mdash; All in-class activites will be provided as Google Docs that you and your teammates will work on during class time, and use as review materials outside of class.
 	4. **WSU Gmail** &mdash; You must check your WSU Gmail account on a regular basis. All communications to the class, such as corrections to problem sets or changes in due dates, will be sent to your WSU Gmail account.
 	5. **Piazza** &mdash; This is an online service that lets you ask (and answer other students’) questions about the course assignments, materials, and topics.
-	6. Access to videos and tutorials on the Internet for assigned class preparation materials.
+	6. **GitLab** &mdash; This is where we will share and submit our code.
 
 ## Where Does This Course Lead?
 * Programming and data analysis in your other courses
