@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.12, Revised 28 August 2019*
+*Version 2019-Fall-0.13, Revised 28 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -298,7 +298,7 @@ Late work will not be accepted. (See *Tokens* below.)
 If you receive a ***Does Not Yet Meet Specification*** on any assignment you may revise and resubmit the assignment ***one time only*** without the use of a token. If you need to submit an assignment a third time, you will have to spend a token.
 
 * You must have submitted the original assignment on time, (or one day late with the use of a token.)
-* You must submit your revision within one week from the date when the "Not Acceptable" grade was posted in Blackboard and comments were posted in GitLab. (You may use a token to submit the revision one day late.)
+* You must submit your revision within one week from the date when the "Does Not Yet Meet Specification" grade was posted in Blackboard and comments were posted in GitLab. (You may use a token to submit the revision one day late.)
 * You may ask me for clarification of the assignment, or of the comments I made on your submission.
 * You may ask me to look at your revised solution to see if it addresses my comments.
 * If you address all the comments in an acceptable fashion, your grade will be converted to ***Meets Specification***.
