@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.10, Revised 28 August 2019*
+*Version 2019-Fall-0.11, Revised 28 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -195,12 +195,12 @@ Your grade for the course will be determined by which assignments and/or how man
 
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
-Attendance and Participation<br>&nbsp;&nbsp;&mdash; In-class Activity Classes (out of 18) <br>&nbsp;&nbsp;&mdash; Final Project Work Classes (out of 7) | <br>18<br>6 | <br>18<br>5 | <br>17<br>4 | <br>16<br>3
+Attendance and Participation<br>&nbsp;&nbsp;&mdash; In-class Activity Classes (out of 18) <br>&nbsp;&nbsp;&mdash; Final Project Work Classes (out of 7) | <br>18<br>6 | <br>17<br>5 | <br>16<br>4 | <br>15<br>3
 Readings Quizzes Average | &ge; 90% | &ge; 80% | &ge; 70%  | &ge; 60%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | <br>100% <br> &ge; 90% | <br> &ge; 90% <br> &ge; 80% | <br> &ge; 80% <br> &ge; 70% | <br> &ge; 70% <br> &ge; 60%
-Laboratory Assignments (out of 6) | 6 | 6 | 6 | 5
-Programming Projects (out 6)<br>&nbsp;&nbsp;&mdash; Submitted (*see explanation below*) <br>&nbsp;&nbsp;&mdash; Meets Specification  | <br>6<br>6 | <br>6<br>5 | <br>6<br>4  | <br>5<br>3
-Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 6)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of 6)<br>&nbsp;&nbsp;&mdash; Final Project (out of 4) | 4<br>5<br>4 | 3<br>4<br>3 | 2<br>3<br>2 | 1<br>2<br>1
+Laboratory Assignments (*n* &approx; 8) | *n* | *n* | *n* | *n-1*
+Programming Projects (*n* &approx; 6)<br>&nbsp;&nbsp;&mdash; Submitted (*see explanation below*) <br>&nbsp;&nbsp;&mdash; Meets Specification  | <br>*n*<br>*n* | <br>*n*<br>*n-1* | <br>*n*<br>*n-2*  | <br>*n-1*<br>*n-3*
+Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (*n* &approx; 8)<br>&nbsp;&nbsp;&mdash; Programming Assignments (*n* &approx; 6)<br>&nbsp;&nbsp;&mdash; Final Project (out of 4) | <br>4<br>5<br>4 | <br>3<br>4<br>3 | <br>2<br>3<br>2 | <br>1<br>2<br>1
 Final Project<br>&nbsp;&nbsp;&mdash; Proposal Meets Specification<br>&nbsp;&nbsp;&mdash; Presentation Meets Specification<br>&nbsp;&nbsp;&mdash; Submitted presentation and code | <br>&check;<br>&check;<br>&check; | <br>&check;<br>&check;<br>&check; | <br>&check;<br>&check;<br>&check; | <br>&check;<br>&check;<br>&check;
 Exam Grade Average (2 exams) | > 50% | > 50% | > 50% | &le; 50%
 
