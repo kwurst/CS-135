@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.11, Revised 28 August 2019*
+*Version 2019-Fall-0.12, Revised 28 August 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -258,8 +258,16 @@ The programming projects will give you a chance to apply the material to larger 
 **Submitted** means that the project has been submitted on time, has all or most of the appropriate code and functions to complete the solution, runs (but maybe not correctly in all cases), but may need some cleaning up to really meet the specifiations. Generally, the student has put in sufficient effort, but the solution is just a little bit "off the mark". 
 
 ## Discussion Logs
+Discussion logs will give you the chance to reflect on your learning, helping you to "cement" your learning.
 
+### Lab Assignments
+Lab Assignment Discussion Logs will also give you the chance to reflect on how you work with others on a project, and how you can improve in the future.
 
+### Programming Projects
+Programming Project Discussion Logs will also give you the chance to reflect on how your own work process, and how you can improve in the future.
+
+### Final Project
+Because you will be working independently (of the instructor) on your Final Project, your discussion logs will keep your instructor aware of what you have learned and whether you are having difficulties with the project.
 
 ## Final Project and Presentation
 For the last 5 weeks of the semester we will work on individual or group programming projects. You will work on some data from your particular major or area of interest. With the instructor’s guidance you will determine what analysis you wish to perform on your data, and develop a program to perform that analysis. 
