@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.13, Revised 28 August 2019*
+*Version 2019-Fall-0.14, Revised 1 September 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -66,15 +66,7 @@ In addition to the textbook, to successfully complete this course you will need:
 ## Course Workload Expectations
 ***This is a three-credit course. You should expect to spend, on average, 9 hours per week on this class.***
 
-You should expect to spend, on average, at least 6 hours per week outside of class during the semester reading the textbook, accessing class preparation materials, studying, doing assignments, working on projects, and practicing in order to master the concepts and use of the language and modules covered in the course. (See Definition of the Credit Hour)
-
-## Definition of the Credit Hour
->Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
-
->1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
-2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
-
->---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
+You will spend 3 hours per week in class. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class. (See **Definition of the "Credit Hour"** below under **WSU Information, Services, and Policies**.)
 
 ## Prerequisites
 This course has a prerequisite of a math placement score 3 or above. This prerequisite can also be met by having taken a college-level math course for credit. A partial list of those math concepts that I expect you to understand is: 
@@ -162,11 +154,17 @@ During this semester we will be learning to design, write and test programs that
 
 You are encouraged to help each other out, in and out of the classroom, as long as you do your own work. (See Academic Conduct below.)
 
-## Instructional MethodsThis class will not be a traditional “lecture” class, and will incorporate some teaching methods that may be unfamiliar to you.### POGILRather than lecturing about the course content, you and your classmates will "discover" the content for yourselves through small-group work.
+## Instructional Methods
+This class will not be a traditional “lecture” class, and will incorporate some teaching methods that may be unfamiliar to you.
+### POGIL
+Rather than lecturing about the course content, you and your classmates will "discover" the content for yourselves through small-group work.The group work will be a very structured style called Process Oriented Guided Inquiry Learning (POGIL). Through investigation of models of the concepts and answering questions that guide the team toward understanding of the models, your team will both learn the content and team process skills. In your POGIL groups each group member will have a specific role to play during the activity, and roles will be rotated so that everyone will get to experience a variety of process skills.
 
-The group work will be a very structured style called Process Oriented Guided Inquiry Learning (POGIL). Through investigation of models of the concepts and answering questions that guide the team toward understanding of the models, your team will both learn the content and team process skills. In your POGIL groups each group member will have a specific role to play during the activity, and roles will be rotated so that everyone will get to experience a variety of process skills.
+For more information on POGIL, see [https://pogil.org/about-pogil/what-is-pogil](https://pogil.org/about-pogil/what-is-pogil).
 
-For more information on POGIL, see [https://pogil.org/about-pogil/what-is-pogil](https://pogil.org/about-pogil/what-is-pogil).### Pair ProgrammingDuring labs, you will work in a pair with one of your classmates. One of you will type while the other makes suggestions, watches for errors, reads the assignment, and thinks ahead. You will switch roles frequently during the lab session. You will be randomly assigned a new partner each lab. This will allow you to get to know the other members of the class, work with partners of different abilities and programming styles, and develop relationships that may extend beyond to classroom.
+### Pair Programming
+During labs, you will work in a pair with one of your classmates. One of you will type while the other makes suggestions, watches for errors, reads the assignment, and thinks ahead. You will switch roles frequently during the lab session.
+
+You will be randomly assigned a new partner each lab. This will allow you to get to know the other members of the class, work with partners of different abilities and programming styles, and develop relationships that may extend beyond to classroom.
 
 ## Grading Policies
 I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
@@ -243,14 +241,18 @@ For your attendance and participation to be considered to *Meet Specification*, 
 * Work on your project (not some other work.)
 * Work with your partner to coordinate work that will happen individually between class sessions.
 
-## Quizzes on ReadingsYou will take quizzes on the readings so that I may assess where students are having conceptual difficulties with the material. In addition to giving an answer to the quiz questions, you will required to explain your reasoning for the answers you chose. 
+## Quizzes on Readings
+You will take quizzes on the readings so that I may assess where students are having conceptual difficulties with the material. In addition to giving an answer to the quiz questions, you will required to explain your reasoning for the answers you chose. 
 
 ***All quizzes can be attempted an unlimited number of times before the due date/time.***
 
-## zyBooks PracticeThe zyBooks textbook contains both Participation activities, where credit is given simply for trying the activity, and Challenge activities which require a correct answer. 
+## zyBooks Practice
+The zyBooks textbook contains both Participation activities, where credit is given simply for trying the activity, and Challenge activities which require a correct answer. 
 
 ***All activities can be attempted an unlimited number of times before the due date/time.***
-## Laboratory AssignmentsThe laboratory assignments provide you with the chance to explore the Python language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
+
+## Laboratory Assignments
+The laboratory assignments provide you with the chance to explore the Python language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
 
 ## Programming Projects
 The programming projects will give you a chance to apply the material to larger tasks. These projects will require you to interpret the problem description, do some planning and design, possibly research and evaluate third-party modules, implement your program, and test and debug it. 
@@ -335,32 +337,15 @@ You may contact me by email (kwurst@worcester.edu), telephone (+1-508-929-8728),
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
-## Code of Conduct/Classroom Civility
-All students are expected to adhere to the policies as outlined in the University's Student Code of Conduct (<a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>).
-
 ## Student Responsibilities 
+
 * Contribute to a class atmosphere conducive to learning for everyone by asking/answering questions, participating in class discussions. Don’t just lurk!
 * When working with a partner, participate actively. Don't let your partner do all the work - you won't learn anything that way.
 * Seek help when necessary
 * Start assignments as soon as they are posted.  Do not wait until the due date to seek help/to do the assignments
-* Make use of the academic success center (see below)
+* Make use of the student support services (see below)
 * Expect to spend at least 9 hours of work per week on classwork.
-* Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
-
-## Accessibility Statement
-Worcester State University values the diversity of all of our students, faculty and staff.  We recognize the importance of each student’s contribution to our campus community.  WSU is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations so that each student may fully participate in programs and services at WSU.  If you have a disability that requires reasonable accommodations, please contact Student Accessibility Services at SAS@worcester.edu or 508-929-8733.  Please be aware that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their provision. 
-
-## Tutoring Services/Academic Success Center
-Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
-
-## The Math Center
-The Math Center provides free assistance to students in Mathematics.  It is located on the first floor of the Sullivan Academic Building, S143.
-
-## The Writing Center
-The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center's hours and the Center's Online Writing Lab, visit their website at <a href="http://www2.worcester.edu/WritingCenter/" target="_blank">http://www2.worcester.edu/WritingCenter/</a>.
-
-## Worcester State Library
-Worcester State Library has access to many articles through online databases including J-STOR. In addition many articles and book chapters are available to students through Inter-Library Loan (ILL).  With a little planning, ILL expands your ability to get credible information sources about topics you pursue in your course work.  Finally WSU students are free to use many of the library resources within the consortium. Given all of these resources it is extremely unlikely that you should have to pay for access to individual articles. Please work with the reference librarians to find the appropriate way to access materials you need.  You have already paid for these resources through your fees—please make use of them.
+* Each student is responsible for the contents of the readings, handouts, and homework assignments.
 
 ## Academic Conduct
 Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts. All work must be done independently unless assigned as a group project. You may discuss assignments and materials with other students, but you should never share answers or files. **Everything that you turn in must be your own original work, unless specified otherwise in the assignment.**
@@ -371,18 +356,137 @@ Students may not use solutions to assignments from any textbooks other than the 
 
 **Any inappropriate sharing of work or use of another's work without attribution will result in a grade of zero on that assignment for all parties involved. If you do so a second time, you will receive an “E” for the course.**
 
-Academic integrity is an essential component of a Worcester State education. Education is both the acquisition of knowledge and the development of skills that lead to further intellectual development. Faculty are expected to follow strict principles of intellectual honesty in their own scholarship; students are held to the same standard. Only by doing their own work can students gain the knowledge, skills, confidence and self-worth that come from earned success; only by learning how to gather information, to integrate it and to communicate it effectively, to identify an idea and follow it to its logical conclusion can they develop the habits of mind characteristic of educated citizens. Taking shortcuts to higher or easier grades results in a Worcester State experience that is intellectually bankrupt.
-
-Academic integrity is important to the integrity of the Worcester State community as a whole. If Worcester State awards degrees to students who have not truly earned them, a reputation for dishonesty and incompetence will follow all of our graduates. Violators cheat their classmates out of deserved rewards and recognition. Academic dishonesty debases the institution and demeans the degree from that institution.  
-
-It is in the interest of students, faculty, and administrators to recognize the importance of academic integrity and to ensure that academic standards at Worcester State remain strong. Only by maintaining high standards of academic honesty can we protect the value of the educational process and the credibility of the institution and its graduates in the larger community.
-
-**You should familiarize yourself with Worcester State College's Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears in: <a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>**
+See **Academic Honesty** below under **WSU Information, Services, and Policies**.
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Student Work Retention Policy
 It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
+
+## WSU Information, Services, and Policies
+
+### Academic Calendar with Important Dates
+
+You can access Worcester State University’s official Fall 2019 Academic Calendar by clicking on [https://www.worcester.edu/Catalogs-and-Calendars/](https://www.worcester.edu/Catalogs-and-Calendars/) , and then on the PDF symbol immediately to the right of “2019/2020,” in the “Academic Calendar” column.  The academic calendar includes a listing of key dates, including:
+
+* September 10 &mdash; The last day to **ADD** a regular day course
+* September 17 &mdash; The last day to **DROP** a regular day course
+* September 17 &mdash; The last day to **ADD** or **DROP** an evening or graduate course
+* October 10 &mdash; The last day to **DECLARE** or **CHANGE** a major or minor
+* November 1 &mdash; The last day to **WITHDRAW** from a course or school
+* November 8 &mdash; The last day to elect the **PASS/FAIL** option for a course
+
+The schedule also includes the final exam schedule as well as dates for Continuing Education and Graduate courses.
+
+### Definition of the “Credit-Hour”
+
+Worcester State University follows a modified Carnegie Foundation definition of the credit-hour, known as the “Carnegie Unit.”  For Worcester State courses, 1 credit hour is equivalent to 1 hour of classroom instruction coupled with a minimum of 2 hours of expected coursework outside of the classroom by the student, over a semester of approximately 15 weeks.  Please note that “1 hour of classroom instruction” is actually 50 minutes.  A 3-credit course would thus entail approximately 45 classroom hours of instruction (= approximately 37.5 actual hours in class) and a minimum of approximately 90 hours of work outside of class.  This standard is maintained for a six-week summer session and a two-week winter, so that the 45 + 90 hours will be distributed over six weeks or two weeks, depending on the session.  Students receive one credit for each credit hour of courses taken.
+
+### Worcester State University’s Core Values
+
+As a public institution, Worcester State University embraces the belief that widespread access to high-quality educational opportunities is the cornerstone of a democratic society.  Members of the Worcester State community share the following core values:
+
+* **Academic Excellence:**  We are committed to providing opportunities to excel in a close-knit learning environment characterized by distinguished faculty, excellent teaching, and creative linkages between classroom learning and real-world experiences.
+* **Engaged Citizenship:**  We are committed to promoting community service, social justice, the democratic process, environmental sustainability, and global awareness to prepare students to be active and informed citizens.
+* **Open Exchange of Ideas:**  We are committed to inviting and considering the most expansive range of perspectives in teaching and learning, in scholarly and creative work, and in the governance of a complex, diverse institution.
+* **Diversity and Inclusiveness:**  We are committed to being an inclusive community in which our diversity enhances learning for all and in which people from all cultures and backgrounds have the opportunity to participate fully and succeed.
+* **Civility and Integrity:**  We are committed to respecting the dignity of all members of our community and to demonstrating this commitment in our interactions, decisions, and structures.
+
+For more on Worcester State’s core values, mission, and the plan for achieving them, see the institution’s Strategic Plan at [https://www.worcester.edu/Strategic-Plan/](https://www.worcester.edu/Strategic-Plan/).
+
+### Accessibility Statement
+
+Worcester State University values the diversity of all of our students, faculty and staff. We recognize the importance of each student’s contribution to our campus community.  WSU is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations so that each student may fully participate in programs and services at WSU.  If you have a disability that requires reasonable accommodations, please contact Student Accessibility Services at <a href="mailto:SAS@worcester">SAS@worcester.edu</a> or 508-929-8733.  Please be aware that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their provision.
+
+### Academic Advising
+
+Each student at Worcester State University is assigned a Faculty Advisor.  This advisor will be in your major department or, for undeclared students, assigned from among faculty across the campus.  If you are unsure of who your faculty advisor is, you can check on WebAdvisor, with your major department’s administrative assistant (if you have a major), or with the Academic Success Center (if you do not have a major).  Your Faculty Advisor will assist you in course selection, setting and achieving academic goals, acquiring relevant information and services, and making responsible decisions regarding their interests, goals, and academic requirements.  At a minimum, you should make an appointment to meet with your advisor prior to preregistration, but your advisor is available throughout the academic year to answer questions and to have discussions about your academic life.
+
+### Support for Students from the Academic Success Center
+
+The Academic Success Center is available to students who have advising and registration questions. The ASC works closely with Faculty Advisors to ensure students are supported with major and LASC information. The ASC also provides workshops for students to deliver academic advising information. Tutoring Services for a variety of courses are hosted in our area. We also offer testing services related to CLEP and Accuplacer Placement Test.  General information about the ASC is available at [https://www.worcester.edu/Academic-Support-Services/](https://www.worcester.edu/Academic-Support-Services/).  The interactive ASC webpage is available through the student portal, “MyWSU.”
+
+### Math Help from the Math Center
+
+The WSU Math Center provides services to enhance student learning and success in any course with mathematical content, including Business, Computer Science, Psychology, Physics, and Math Courses up to Calc 2 (MA 201).  Placement test materials and preparation support are also available.  The trained tutors have taken the course they tutor for and understand the material well.  Tutoring is on a drop-in basis in Sullivan 140 and overseen by Math Professors Eileen Perez and Elizabeth Gilbert.  Semester hours begin the Monday of the first full week of each semester and will be published by the center.
+
+### Writing Help from the Writing Center
+
+Worcester State University's Writing Center is located in Sullivan 306.  Staffed by friendly consultants, many of whom students may know from around campus, the Writing Center is a space where students have productive conversations about their writing.
+
+Students can schedule an appointment with us in-person or by email (<a href="mailto:writingcenter@worcester.edu">writingcenter@worcester.edu</a>).  While we prefer scheduled appointments, we are often available for walk-in appointments, as well.
+
+Alternatively, the WSU Writing Center offers an Online Writing Lab service whereby students can submit papers and writing projects and receive feedback.  Students can submit to us using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd1aGBA7RrGZWUpmJyG9d6JG51HPN6sdS-DdtYK9BTNZiGCtw/viewform).  Please note, we reserve the right to take up to 72 hours to respond.
+ 
+All services at the Writing Center are offered free of charge.  For more information about our mission and policies, visit our main page [here](https://www.worcester.edu/FP-Writing-Center/).
+
+### Help for Students from the Counseling Center
+
+The Worcester State University Counseling Center is here to provide confidential, therapeutic support to students with mental health concerns and/or facing pressures unique to college students.  Services are also provided to students that are in crisis.  Your instructor is available if you would like my guidance in seeking services.  Your instructor may also consult with a counseling center staff member and/or make a referral on your behalf.  You can contact the center directly via email <a href="counseling_WSU@worcester.edu">counseling_WSU@worcester.edu</a> or via telephone at (508) 929-8072.
+
+### Support for Students from the Student Intervention Team
+
+Worcester State University is committed to the safety and success of all members of the campus community. To support this initiative, WSU has a Student Intervention Team which works to support campus community members, including students, by reaching out and providing resources in areas where an individual may be struggling or experiencing barriers to their success.  The program allows faculty to be proactive, supportive, and involved in facilitating the success of our students through early detection, reporting, and intervention. As your faculty member, I may contact the Student Intervention Team if I sense you are in need additional support which individually I may not be able to provide.
+
+### Title IX:  Policy Against Sex Discrimination and Sexual Harassment
+
+Worcester State University is committed to respecting the dignity of all members of our community and to demonstrating this commitment in our interactions, decisions, and structures.  We must create a safe and supportive community for all in order to fulfill our mission to equip our students with knowledge and skills necessary for lives of professional accomplishment, engaged citizenship, and intellectual growth.  Therefore, Worcester State University takes all complaints and accusations of sexual discrimination, harassment, and assault seriously.
+
+WSU encourages students, employees, or guests who believe they have been harmed by discrimination or sexual harassment on or off campus to discuss their concerns and file an informal or formal complaint with WSU's Title IX Coordinator, Jennifer Quinn, at 508-929-8243 or <a href="mailto:wsu_titleix@worcester.edu">wsu_titleix@worcester.edu</a>.
+
+### Procedures and Key Dates Regarding Bill Payment
+
+* Early June &mdash; Pre-bill notifications were sent to students.
+* July 11 &mdash; Bills were issued to students.
+* August 6 &mdash; Bill due date
+* August 8 &mdash; Students with a $3,000 or greater remaining balance will receive a non-payment hold on their accounts.  This hold will prohibit students from adjusting class schedules.
+* August 15 &mdash; Overdue notices are sent to students with remaining balances of $500 or greater.  Students with a $500 or greater remaining balance will receive a non-payment hold.
+* September 4	 &mdash; Classes begin.  Students with remaining balances should attend class.
+* September 5 – 17 &mdash; Multiple messages will be sent to students with non-payment holds encouraging them to clear their bill.  Starfish flags will be raised to alert students and their instructors.  Students should continue to attend class.
+* September 10 &mdash; Overdue notices are sent to students with remaining balances of $300 or greater.  Students with a $300 or greater remaining balance will receive a non-payment hold.  Students should continue to attend class.
+* September 18 &mdash; Students who have taken no action on their bills will have their Blackboard accounts suspended (not deleted).  Once students are suspended they will no longer be visible in Starfish.  Students should continue to attend class.
+* September 30 &mdash; Last day for reinstatement.  Students who have taken no action on their bills will be dropped from courses.  Dropped students should no longer attend class.
+* Students with questions about billing dates, registration holds, financial aid statuses, and Blackboard suspensions can be referred to the following offices:
+	* Student Accounts		508-929-8051
+	* Financial Aid			508-929-8056
+	* Enrollment Management	508-929-8497
+
+### Financial Help from the Student Emergency Fund
+
+The Student Emergency Fund was created to assist WSU students who encounter an unforeseen financial emergency or catastrophic event which would otherwise prevent them from continuing their education at Worcester State University.
+
+Our goal is to help students during a time of need to stay in school and make progress toward a degree.  An award is intended to be a major step for the student in the return to financial stability.
+
+How to Apply for Emergency Funds:  Visit the Dean of Students Office, located on the third floor of the Student Center, Room 344, or call (508) 929-8077.
+
+### LASC (Liberal Arts and Sciences Curriculum)
+
+LASC is Worcester State University’s general education system.  It supplements courses in a student’s major(s) (and minor(s) and interdisciplinary concentration(s)) with an opportunity to study a broader set of subjects and issues.  LASC includes two foundation areas, eight different subject areas, and three areas integrating different educational goals (development of writing skills, math skills, and diversity experience and understanding) into courses across the curriculum, as well as a capstone experience meant to bring together into a cohesive whole a student’s work in her/his/their/zeir major or LASC courses.  For those who begin their higher education careers at Worcester State as incoming first-year students, LASC also includes the First Year Seminar.  Not only does the LASC system offer students important opportunities for intellectual and personal growth and enrichment, but it also provides opportunities to develop skills and knowledge supporting engaged citizenship as well as the intellectual flexibility and broad-based abilities necessary to succeeding in the “new economy” of fluidly evolving, emerging, and disappearing professions in which students can expect to have multiple careers across many areas.  For more information on LASC, ask your Academic Advisor and use this link: [https://catalog.worcester.edu/undergraduate/academic-policies-procedures/lasc-wsu-pathways-discovery/](https://catalog.worcester.edu/undergraduate/academic-policies-procedures/lasc-wsu-pathways-discovery/).
+
+### Academic Honesty
+
+Academic Honesty is an important foundation of a teaching and learning community and taken very seriously by Worcester State University.  For the full statement of the Academic Honesty Policy, please go to [https://catalog.worcester.edu/undergraduate/academic-policies-procedures/academic-honesty/](https://catalog.worcester.edu/undergraduate/academic-policies-procedures/academic-honesty/).  Among other elements, this policy includes definitions of relevant terms such as “plagiarism” and student appeal procedures.  Please note that there are three main ways that academic dishonesty is dealt with at Worcester State.  First, instructors may impose sanctions within a course, which might include such things as mandatory rewrites or reduced or failing grades.  Second, in conjunction with what they do in class, instructors may file reports of academic dishonesty instances in the Academic Central File.  Such reports form a record of conduct that is tracked at the university level, and allows both instructors and the Worcester State administration to determine if a student has been reported for multiple violations.  While having a report filed in the Academic Central File about one’s academic dishonesty does not in itself carry any penalty for the student, reports in the file can be used for evidence in formal judicial processes.  In addition, faculty members can request to be told if a student has a prior report on file and the Worcester State administration can institute formal judicial processes based on Academic Central File reports.
+
+### IT – Information Technology Services
+
+If you need help with a computer, email, Blackboard, or another technology issue, IT is there for you!
+
+* **Help Desk:**  Located in the Learning Resource Center Room:  LRC-310, Phone:  508-929-8856
+* **IT Services:**  If you need any assistance, you may submit a ticket to the IT Help Desk, by going to [http://www.worcester.edu/it](http://www.worcester.edu/it) and clicking the "Submit a Help Desk Ticket" button.  You can also find help desk office hours for the semester at this link.
+* **Laptop Support:**  If your laptop needs repairs, you can drop it off at the Laptop Repair Depot, located on the 3rd floor of the LRC.  It typically takes 24 to 48 hours to complete a repair.
+* **myWSU Portal:**  Classes, OneCard, WebAdvisor, and Gmail are all accessible through this portal.
+* **Free Software Download:**  Available for download at [https://apps.worcester.edu/MSDNAA_E5/Prompt.aspx](https://apps.worcester.edu/MSDNAA_E5/Prompt.aspx) for
+Windows 8.1, and 10. The Adobe Creative Suite can also be obtained at low cost here.
+* **Microsoft Office:**  This software can be downloaded at [www.office365.com](www.office365.com) for FREE.
+Click “Sign In” at the top right hand corner of the screen and use your WSU email address and password, in order to gain access to the download.
+
+### Worcester State University Library
+
+For research help, go to the Library!
+
+The Worcester State University Library ([www.worcester.edu/library](www.worcester.edu/library)), located on the second and third floors of the Learning Resource Center, provides access to print materials and items on course reserve in addition to a wide variety of full-text online resources accessible both on- and off-campus, including e-books, journal articles, newspapers, and magazines. Articles and book chapters not available in full-text through the Library’s resources can be obtained through Interlibrary Loan (ILL). With a little planning, ILL expands your ability to get credible sources about topics you pursue in your coursework. Additionally, as a member library of the ARC consortium ([www.worcesterarc.org](www.worcesterarc.org)), WSU students can also access resources at other college libraries.
+
+The librarians at WSU can help you develop research questions, identify research strategies, search for relevant and reliable information and data, select the best sources for your paper or project, and cite that information. A librarian can visit your class, meet with you in person (one-on-one or in groups), and provide assistance via email, phone, or chat. While every WSU Librarian is able to help students with a project in any discipline, each department has a designated librarian to support the research needs of the students in that department. You are welcome to stop by their office, or make an appointment!  For more information, go to [http://libguides.worcester.edu/askus](http://libguides.worcester.edu/askus).
 
 ## Schedule
 **This schedule is subject to change.**
