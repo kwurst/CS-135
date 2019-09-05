@@ -1,6 +1,6 @@
 # *This is a DRAFT syllabus. It is subject to change until the first class.*
 
-*Version 2019-Fall-0.14, Revised 1 September 2019*
+*Version 2019-Fall-0.16, Revised 5 September 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
@@ -16,6 +16,7 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
+(Pronouns: He/Him/His)<br>
 See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Times and Locations
@@ -458,6 +459,12 @@ The Student Emergency Fund was created to assist WSU students who encounter an u
 Our goal is to help students during a time of need to stay in school and make progress toward a degree.  An award is intended to be a major step for the student in the return to financial stability.
 
 How to Apply for Emergency Funds:  Visit the Dean of Students Office, located on the third floor of the Student Center, Room 344, or call (508) 929-8077.
+
+### Food Assistance for Those in Need
+
+Thea’s Pantry provides food and other essentials to students, staff, and faculty in need.  The pantry is located in the Student Center on the 3rd Floor, Room 345.  It provides a confidential service for those in need.  The only requirement for making use of the pantry is possession of a WSU OneCard.  Additional information and hours of operation can be found online at [https://www.worcester.edu/Theas-Pantry/](https://www.worcester.edu/Theas-Pantry/).
+
+In addition, the Division of Graduate and Continuing Education (DGCE) provides an informal “pop up” food pantry for those in need.  It is located just outside the elevator on the 4th Floor of the Administration Building.
 
 ### LASC (Liberal Arts and Sciences Curriculum)
 
