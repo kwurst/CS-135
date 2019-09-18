@@ -1,6 +1,4 @@
-# *This is a DRAFT syllabus. It is subject to change until the first class.*
-
-*Version 2019-Fall-0.16, Revised 5 September 2019*
+*Version 2019-Fall-Final-1.0, Revised 18 September 2019*
 ### *CS-135 03 &mdash; Fall 2019*
 
 # CS-135 Programming for Non-CS Majors
